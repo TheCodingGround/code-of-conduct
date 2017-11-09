@@ -12,6 +12,7 @@ The Student Code of Conduct sets out the standards of conduct expected of studen
 
 <br />
 
+
 ## Table of Content
 - [Overview](#overview)
 - [When does the code apply](#apply)
@@ -27,9 +28,9 @@ The Code of Coduct applies to the any student enrolled/employed by The Coding Gr
 
 ## Prohibited conduct
 
-<strong>Prohibited conduct under the Code includes but is not limited to: </strong>
+**Prohibited conduct under the Code includes but is not limited to: **
 
-<strong>1. General: </strong>
+**1. General:** 
 
  * Assaulting, harassing, intimidating, or threatening another individual or group
  * Endangering the health or safety of others
@@ -43,7 +44,8 @@ The Code of Coduct applies to the any student enrolled/employed by The Coding Gr
  * Encouraging, aiding, or conspiring in any prohibited conduct
  * Failing to comply with a disciplinary measure or disciplinary measures imposed under the procedures of this Code
 
-<strong>2. Learning: </strong>
+**2. Learning:** 
+
 
  * Not taking initiative
  * Refusal to participate in discussions related to learning
