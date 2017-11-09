@@ -7,8 +7,8 @@
   <strong>Expected Standards of Conducts for our students</strong>
 </div>
 <div align="center">
-The Student Code of Conduct sets out the standards of conduct expected of students. It holds individuals and groups responsible for the consequences of their actions. Failure to fulfill these responsibilities may result in the withdrawal of privileges or the imposition of sanctions.
-</div>
+The Student Code of Conduct sets out the standards of conduct expected of students. It holds individuals responsible for the consequences of their actions. Failure to fulfill these responsibilities may result in the withdrawal of privileges or the expulsion from the academy.
+<div>
 
 <br />
 
