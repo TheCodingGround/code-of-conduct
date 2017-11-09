@@ -4,7 +4,7 @@
   :steam_locomotive::train::train::train::train::train:
 </div>
 <div align="center">
-  <strong>Expected Standards of Conducts for our students</strong>
+  <strong>Students Expected Standards of Conduct</strong>
 </div>
 <div align="center">
 The Student Code of Conduct sets out the standards of conduct expected of students. It holds individuals responsible for the consequences of their actions. Failure to fulfill these responsibilities may result in the withdrawal of privileges or the expulsion from the academy.
